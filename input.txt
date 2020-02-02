@@ -1,0 +1,8 @@
+Goku DBS, Checking, 123456710, 1000
+Vegeta, Checking, 123456711, 1000
+Piccolo, Checking, 123456712, 1000
+Gohan, Savings, 123456713, 100
+Trunks, Savings, 123456714, 100
+Goten, Savings, 123456715, 100
+Krillin, Checking, 123456716, 1000
+Tien Shinhan, Checking, 12345717, 1700
